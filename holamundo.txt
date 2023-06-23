@@ -3,3 +3,5 @@ Esta es mi prueba de git y github
 este va a hacer el segun commit
 
 Este va a hacer otro cambio
+
+prueba checkout
